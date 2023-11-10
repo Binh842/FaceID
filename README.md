@@ -2,6 +2,11 @@
 ## Hệ Thống chấm công sử dụng công nghệ Face ID
 Hệ thống chấm công Face ID là một giải pháp hiện đại để quản lý thời gian làm việc của nhân viên trong tổ chức. 
 
+### Cài môi trường
+```
+pip install -r requirements.txt
+```
+
 ### Cách chạy
 ```
 python display.py
